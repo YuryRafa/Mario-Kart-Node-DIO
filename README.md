@@ -1,10 +1,10 @@
-# 🏁  Simulador de Corridas do Mario Kart com Node.js DIO
+# Projeto DIO - Simulador de Corridas do Mario Kart com Node.js
 
 Um pequeno programa inspirado no universo de Mario Kart, desenvolvido em **Node.js** para praticar conceitos de **JavaScript assíncrono, lógica de programação e manipulação de terminal**.
 
 Dois personagens competem em uma corrida de 5 rodadas. A cada rodada, um tipo de bloco da pista é sorteado e os jogadores disputam utilizando atributos diferentes.
 
-## 🎮 Como funciona
+## Como funciona
 
 A corrida acontece em 5 rodadas.
 
