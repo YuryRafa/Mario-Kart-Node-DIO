@@ -6,6 +6,8 @@ Dois personagens competem em uma corrida de 5 rodadas. A cada rodada, um tipo de
 
 ## Como funciona
 
+O jogador escolhe seu personagem.
+
 A corrida acontece em 5 rodadas.
 
 Em cada rodada:
